@@ -3,6 +3,11 @@
   "build": {
     "engine": "xelatex"
   },
+  "referenceCatalog": {
+    "file": "external-labels.json",
+    "downloadUrl": "https://www.tianleyang.com/arithmetic-geometry/external-labels.json"
+  },
+  "externalReferences": [],
   "book": {
     "id": "arithmetic-geometry",
     "title": "Arithmetic Geometry",
